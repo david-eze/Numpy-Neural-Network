@@ -184,4 +184,4 @@ numpy-neural-network/
 
 ## Notes
 
-This is educational code. There is no mini-batch shuffling, momentum, Adam, dropout, or regularization. Those are straightforward to add once the core loops make sense. The goal here is to show that a working classifier really is just repeated matrix multiply, a nonlinearity, and careful calculus on the way back.
+There is no mini-batch shuffling, momentum, Adam, dropout, or regularization. Those are straightforward to add once the core loops make sense. The goal here is to show that a working classifier really is just repeated matrix multiply, a nonlinearity, and careful calculus on the way back.
