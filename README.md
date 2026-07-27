@@ -39,7 +39,7 @@ During training you will see loss and accuracy printed at regular intervals. Bot
 ## Results
 
 ![MNIST Predictions](./assets/mnist_predictions.png)
-[Click here to view more visualizations](./assets/)
+[Click here to see more visualizations](./assets/)
 
 These numbers come from a full run of `python train.py` on a typical laptop setup (Windows, Python 3, NumPy only). Random seeds are fixed (`42`) so you should get very similar figures if you run it yourself. The whole script (both demos back to back) finishes in roughly half a minute once MNIST is already downloaded.
 
