@@ -1,5 +1,7 @@
 # NumPy Neural Network
 
+![Decision Boundary](./assets/two_moons_decision_boundary.png)
+
 A small multi-layer classifier built entirely from matrix math. No PyTorch, no TensorFlow, no autograd. Just NumPy, the chain rule, and gradient descent.
 
 ## What this is
