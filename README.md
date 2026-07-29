@@ -177,7 +177,7 @@ The output-layer gradient simplifies to `A - Y` when softmax and cross-entropy a
 ## Project layout
 
 ```
-neural-network/
+numpy-neural-network/
 ├── neural_network.py
 ├── train.py
 ├── visualize.py
